@@ -1,0 +1,27 @@
+.nav{
+	opacity: 0.9;
+	z-index: 1;
+}
+
+.logo{
+	margin: 1rem 0;
+}
+
+.enroll-div{
+	background-color: #d3e0f0;
+	border: 5px inset;
+	margin: 0 10%;
+}
+
+.main-h1{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 3rem;
+	line-height: 5rem;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+.main-p{
+	padding-bottom: 20px;
+	line-height: 2.5rem;
+}

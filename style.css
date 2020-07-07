@@ -1,0 +1,107 @@
+.nav{
+	opacity: 0.9;
+	z-index: 1;
+}
+
+.logo{
+	margin: 1rem 0;
+}
+
+.first-section{
+	border: 2px solid;
+	background-color: #d3e6f3;
+	padding-bottom: 10rem; 
+}
+
+.first-div{
+	margin: 20% 30% 7%;
+}
+
+.heading{
+	color: #03cefc;
+	text-shadow: 2px 2px 2px #000;
+	margin: 15% 0  7%;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 6rem;
+}
+
+.sub-heading{
+	text-shadow: 1px 1px 1px #03cefc;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: right;
+}
+
+.division{
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+
+.enroll-button{
+	text-decoration: none;
+	color:white;
+}
+
+.enroll-button:hover{
+	color: white; 
+}
+
+.about{
+	background-color: #d3e6f3;
+	border: 2px solid;
+}
+
+.about-image{
+	float: right;
+	position: relative;
+	height: 15rem;
+	width: auto;
+}
+
+.about-container{
+	margin: 4% 0 2%;
+	background-color: #d3e6f3;
+}
+
+.about-para{
+	padding-top: 5%;
+	font-size: 1.2rem;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.contact-heading{
+	font-family: 'Oxygen', sans-serif;
+	padding: 5% 0;
+}
+
+.line{
+	border:none;
+	border-bottom: 30px dotted #baeafa;
+	width: 20%;
+}
+
+.call{
+	float: right;
+	border: 2px solid;
+	padding: 3rem 3rem 3rem 0;
+}
+
+.phone{
+	float: left;
+	height: 3em;
+	margin-left: 45%;
+}
+
+.no{
+	margin-left: 50%;
+}
+
+footer{
+	background-color: #d3e6f3;
+	border-top: 2px solid;
+	margin-top: 2%;
+}
+
+.footer-para{
+	padding: 2% 0;
+	margin-bottom: 0;
+}
